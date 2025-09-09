@@ -28,7 +28,7 @@ server = http.createServer(app);
 var dbMongo = require('./config/mongo');
 
 app.get('/', (req, res) => {
-    res.send('Bem-vindo ao meu projeto Node.js com server.js!', {layout: "layout"});
+    res.send("Deploy automático no Azure funcionando 🚀 - versão 2", {layout: "layout"});
 });
 
 // views modelo
