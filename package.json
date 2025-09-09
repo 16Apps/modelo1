@@ -4,7 +4,7 @@
   "main": "server.js",
   "scripts": {
   "start": "node server.js",
-  "test": "echo \"No tests configured\""
+  "test": "echo \"16Apps error\""
 },
   "keywords": [],
   "author": "",
